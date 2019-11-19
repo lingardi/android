@@ -314,8 +314,12 @@
           <option name="url" value="https://github.com/linglongxin24/VRDevelopVideo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.coding.net/lingard/LivePhoneP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\android project\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/androidprojects" />
   </component>
 </application>
