@@ -350,6 +350,10 @@
           <option name="url" value="http://gitlab.corp.youdao.com" />
           <option name="userName" value="limw" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bingoogolapple/BGAQRCode-Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
