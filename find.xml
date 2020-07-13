@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'videoedit'" />
-    <option name="defaultScopeName" value="Module 'videoedit'" />
+    <option name="customScope" value="Project 'ColorShow'" />
+    <option name="defaultScopeName" value="Project 'ColorShow'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'videoedit'" />
+    <option name="SEARCH_SCOPE" value="Project 'ColorShow'" />
   </component>
 </application>
