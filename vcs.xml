@@ -394,6 +394,10 @@
           <option name="url" value="https://dlwteam.visualstudio.com/DefaultCollection/BuffaloWings/_git/LauncherPlugin" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dlwteam.visualstudio.com/DefaultCollection/BuffaloWings/_git/LauncherAutomation" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
