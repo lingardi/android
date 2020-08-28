@@ -398,6 +398,14 @@
           <option name="url" value="https://dlwteam.visualstudio.com/DefaultCollection/BuffaloWings/_git/LauncherAutomation" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://microsoft.visualstudio.com/DefaultCollection/MMX/_git/RA-Android-MainApp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://microsoft.visualstudio.com" />
+          <option name="userName" value="t-mingwl" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
